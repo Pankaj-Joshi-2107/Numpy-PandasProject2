@@ -1,7 +1,7 @@
 # Numpy-PandasProject2
 Python Data Analysis Project This project demonstrates a data analysis workflow using Python with the Pandas and NumPy libraries. It covers the fundamental steps of loading, cleaning, and analyzing data to uncover insights.
 
-**Key Features:**
+**Key Features:** <br>
 • Data loading and exploration
 
 • Data cleaning and preprocessing
@@ -10,7 +10,7 @@ Python Data Analysis Project This project demonstrates a data analysis workflow 
 
 • Data manipulation with Pandas
 
-**Technologies Used:**
+**Technologies Used:** <br>
 • Python
 
 • Pandas
