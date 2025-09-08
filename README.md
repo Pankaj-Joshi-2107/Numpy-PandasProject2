@@ -4,7 +4,7 @@ Python Data Analysis Project This project demonstrates a data analysis workflow 
 **Key Features:** <br>
 • Data loading and exploration
 
-• Data cleaning and preprocessing
+• Data Feauture extraction 
 
 • Numerical analysis using NumPy
 
